@@ -27,7 +27,7 @@ The dashboard provides a comprehensive visualization of shipment data including:
 | 👩‍💼 Sales Analysis | Evaluate performance of individual salespeople |
 | 🧩 Filter Panel | Interactive filters for category and country |
 
-![Dashboard Preview](./https://github.com/sakibsadri/Shipping-Delivery-KPIs/blob/main/Shipping%20%26%20Delivery%20KPIs.jpg)
+![Dashboard Preview](https://github.com/sakibsadri/Shipping-Delivery-KPIs/blob/main/Shipping%20%26%20Delivery%20KPIs.jpg)
 
 ## 📌 Technologies Used
 
